@@ -54,6 +54,7 @@ pub fn main() void {
     //
     // In this exercise we use 'write' to output 17 chars,
     // but something is still missing...
+    // skipped
     const c_res = write(2, "Hello C from Zig!", 17);
 
     // let's see what the result from C is:
